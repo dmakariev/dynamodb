@@ -439,6 +439,9 @@
                     <!--
                     <path>/${project.name}</path>
                     -->
+                    <systemProperties>
+                        <dynamodb.endpoint>${dynamodb.endpoint}</dynamodb.endpoint>
+                    </systemProperties>
                 </configuration>
             </plugin>
 

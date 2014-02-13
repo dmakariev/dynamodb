@@ -29,6 +29,7 @@ open your browser
 http://localhost:8080
 
 == Examples covered ==
+
 Load Data into Tables Using the AWS SDK for Java
 http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LoadData_Java.html
 

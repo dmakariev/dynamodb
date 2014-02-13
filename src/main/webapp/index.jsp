@@ -3,11 +3,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Deltaset start Spring application</title>
+        <title>Amazon DynamoDB application</title>
     </head>
     <body>
          <div style="position: relative;margin: 20px;margin-bottom: 30px;">
-            <div style="font-weight: bold;font-size: 1.2em;margin-bottom: 10px;">Deltaset start Spring application</div>
+            <div style="font-weight: bold;font-size: 1.2em;margin-bottom: 10px;">Amazon DynamoDB application</div>
             <div style="font-size: 0.7em;margin-left: 15px;">
                 <fmt:bundle basename="build-info">
                     platform.artifactId=<b><fmt:message key="platform.artifactId" /></b><br/>
